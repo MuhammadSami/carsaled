@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carsales.Web", "Carsales.Web\Carsales.Web.csproj", "{6F282C8C-B331-4BBA-9405-9CDD74F9BFA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Carsales.Web", "Carsales.Web\Carsales.Web.csproj", "{6F282C8C-B331-4BBA-9405-9CDD74F9BFA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carsales.Persistence", "Carsales.Persistence\Carsales.Persistence.csproj", "{42E74C1F-CD13-4CF8-95E4-C53B60D381AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6F282C8C-B331-4BBA-9405-9CDD74F9BFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F282C8C-B331-4BBA-9405-9CDD74F9BFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F282C8C-B331-4BBA-9405-9CDD74F9BFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E74C1F-CD13-4CF8-95E4-C53B60D381AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E74C1F-CD13-4CF8-95E4-C53B60D381AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E74C1F-CD13-4CF8-95E4-C53B60D381AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E74C1F-CD13-4CF8-95E4-C53B60D381AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
