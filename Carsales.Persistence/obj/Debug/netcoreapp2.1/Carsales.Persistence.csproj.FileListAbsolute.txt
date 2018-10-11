@@ -1,0 +1,12 @@
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\bin\Debug\netcoreapp2.1\Carsales.Persistence.deps.json
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\bin\Debug\netcoreapp2.1\Carsales.Persistence.dll
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\bin\Debug\netcoreapp2.1\Carsales.Persistence.pdb
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\obj\Debug\netcoreapp2.1\Carsales.Persistence.csprojAssemblyReference.cache
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\obj\Debug\netcoreapp2.1\Carsales.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\obj\Debug\netcoreapp2.1\Carsales.Persistence.AssemblyInfoInputs.cache
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\obj\Debug\netcoreapp2.1\Carsales.Persistence.AssemblyInfo.cs
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\obj\Debug\netcoreapp2.1\Carsales.Persistence.csproj.CopyComplete
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\obj\Debug\netcoreapp2.1\Carsales.Persistence.dll
+C:\Users\SAMI\source\repos\Carsales\Carsales.Persistence\obj\Debug\netcoreapp2.1\Carsales.Persistence.pdb
